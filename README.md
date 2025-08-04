@@ -249,6 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub**: [@Faouzi-Blibech](https://github.com/Faouzi-Blibech)
+- **LinkedIn**: [@Faouzi Blibech]((https://www.linkedin.com/in/faouzi-blibech))
 - **Project Link**: https://github.com/Faouzi-Blibech/F1-Hungarian-GP-Prediction
 
 ---
