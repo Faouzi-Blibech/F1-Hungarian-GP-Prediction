@@ -29,7 +29,7 @@ This advanced machine learning pipeline predicts Formula 1 race outcomes for the
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Faouzi-Elbech/F1-Hungarian-GP-Prediction.git
+git clone https://github.com/Faouzi-Blibech/F1-Hungarian-GP-Prediction.git
 cd F1-Hungarian-GP-Prediction
 ```
 
